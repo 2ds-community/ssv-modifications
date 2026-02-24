@@ -26,3 +26,9 @@ uv run python tools/generate_partial_export_metadata.py \
 - `hashes/mods.sha1`（每行一个去重后的 SHA-1）
 - `hashes/resourcepacks.sha1`（每行一个去重后的 SHA-1）
 - `hashes/shaderpacks.sha1`（每行一个去重后的 SHA-1）
+
+## 版本元数据拉取格式
+
+各个版本的元数据并没有将所对应的版本号记录在文件中，只用链接最后的文件名来标注
+
+链接：<https://1812378450.v.123pan.cn/1812378450/2ds/client/settings/ssv_settings_3-3-5.zip>
