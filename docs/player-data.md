@@ -17,9 +17,9 @@
 - **文件夹**：直接导出、直接导入
 
 .
-├── journeymap/
-├── saves/
-├── screenshots/
+├── journeymap/  
+├── saves/  
+├── screenshots/  
 └── Distant_Horizons_server_data/
 
 ## 部分导出/部分导入
@@ -32,9 +32,9 @@
   - 导入：直接全部导入。若有文件名冲突，则添加前缀 【迁移文件】
 
 .
-├── mods/
-├── resourcepacks/
-├── shaderpacks/
+├── mods/  
+├── resourcepacks/  
+├── shaderpacks/  
 └── options.txt
 
 ## 自定义导出/导入
@@ -50,3 +50,4 @@
 链接：<https://1812378450.v.123pan.cn/1812378450/2ds/client/settings/ssv_settings_3-3-5.zip>
 
 在 zip 文件中，根目录下有 options.txt 原始文件，还有 hashes 目录，里面存放了 mods.sha1, resourcepacks.sha1 还有 shaderpacks.sha1，每个哈希文件都存放了对应文件夹下所有文件的哈希值。纯文本文件，每个哈希值独占一行
+
