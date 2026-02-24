@@ -1,0 +1,10 @@
+[project]
+name = "ssv-modifications-tools"
+version = "0.1.0"
+description = "Utilities for SSV partial export metadata generation"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.uv]
+package = false
